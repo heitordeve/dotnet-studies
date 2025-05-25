@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clean Architecture", "Clean Architecture", "{67798D44-5262-4DAB-021C-789939A34626}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RevisãoCSharpBasico", "RevisãoCSharpBasico", "{EE4E6ECB-5BAB-3C1B-2EB5-1385088F33F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio1-Variaveis_Tipos_Operadores", "Clean Architecture\RevisãoCSharpBasico\Desafio1-Variaveis_Tipos_Operadores\Desafio1-Variaveis_Tipos_Operadores.csproj", "{65C8FF49-A971-EE00-931E-1E2CA836BE09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65C8FF49-A971-EE00-931E-1E2CA836BE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C8FF49-A971-EE00-931E-1E2CA836BE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C8FF49-A971-EE00-931E-1E2CA836BE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C8FF49-A971-EE00-931E-1E2CA836BE09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EE4E6ECB-5BAB-3C1B-2EB5-1385088F33F5} = {67798D44-5262-4DAB-021C-789939A34626}
+		{65C8FF49-A971-EE00-931E-1E2CA836BE09} = {EE4E6ECB-5BAB-3C1B-2EB5-1385088F33F5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C0C4667-A6FA-477D-B889-A5D01BADFD33}
+	EndGlobalSection
+EndGlobal
