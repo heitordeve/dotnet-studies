@@ -1,9 +1,7 @@
-# dotnet-studies
-
 # Plano de Estudos .NET
 
 ## Clean Architecture
-- [ ] Revisar C# básico/intermediário
+- [⏳] Revisar C# básico/intermediário
 - [ ] Estudar conceitos de Clean Architecture
 - [ ] Criar estrutura com Clean Architecture
 - [ ] Implementar camadas Domain, Application, Infra e API
