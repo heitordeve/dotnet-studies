@@ -1,10 +1,26 @@
 # Plano de Estudos .NET
 
 ## Clean Architecture
-- [⏳] Revisar C# básico/intermediário
+- [⏳] Revisar C# básico
+  - [x]  1. **Variáveis, Tipos e Operadores**
+  - [x]  2. **Condicionais (if, else, switch)**
+  - [ ]  3. **Laços de Repetição (for, while, do while)**
+  - [ ]  4. **Arrays e Listas**
+  - [ ]  5. **Funções e Métodos**
+  - [ ]  6. **Programação Orientada a Objetos (POO)**
+  - [ ]  7. **Enum, Struct e DateTime**
+  - [ ]  8. **Manipulação de Strings**
+  - [ ]  9. **Tratamento de Erros (Exceptions)**
+  - [ ]  10. **Desafio Final Integrador (CRUD simples)**
+
+- [ ] Revisar C# intermediário
+
 - [ ] Estudar conceitos de Clean Architecture
+
 - [ ] Criar estrutura com Clean Architecture
+
 - [ ] Implementar camadas Domain, Application, Infra e API
+
 - [ ] Testar com CRUD simples
 
 ## ASP.NET Web API
