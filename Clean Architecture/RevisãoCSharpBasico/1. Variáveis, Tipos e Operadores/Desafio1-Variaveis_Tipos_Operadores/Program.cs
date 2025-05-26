@@ -1,7 +1,7 @@
 ﻿Console.WriteLine(" === Desafio 1 === \n");
-Console.WriteLine(" Crie um programa em que o usuário posso digitar no console:  \n");
-Console.WriteLine(" nome, idade e salário de um usuário. \n");
-Console.WriteLine(" Em seguida fazer a impressão no console. \n");
+Console.WriteLine(" DADO QUE o usuário esteja no sistema para informar os dados o funcionário.  \n");
+Console.WriteLine(" QUANDO ele informa os dados como Nome, Idade e Salário. \n");
+Console.WriteLine(" ENTÃO será impresso no terminal as informações do Colaborador\n")
 Console.WriteLine(" Mamão?! Bora lá! \n\n\n");
 
 

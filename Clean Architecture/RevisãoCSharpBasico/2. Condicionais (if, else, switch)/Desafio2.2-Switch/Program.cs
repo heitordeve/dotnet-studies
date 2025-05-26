@@ -1,8 +1,10 @@
 ﻿Console.Clear();
 
 Console.WriteLine(" === Desafio 2.2 - Switch === \n");
-Console.WriteLine(" Peça para informar a nota do aluno.  \n");
-Console.WriteLine(" Em seguida verifique se está aprovado, reprovado ou em recuperação \n");
+Console.WriteLine(" DADO QUE o usuário esteja no sistema para validar a situação do Aluno  \n");
+Console.WriteLine(" E está usando a estrutura de condição SWITCH  \n");
+Console.WriteLine(" QUANDO ele informa a nota do aluno \n");
+Console.WriteLine(" ENTÃO será impresso no terminal a situação do Aluno\n");
 Console.WriteLine(" Mamão?! Bora lá! \n\n\n");
 
 Console.Write(" Digite o nome do aluno: ");

@@ -1,8 +1,9 @@
 ﻿Console.Clear();
 
 Console.WriteLine(" === Desafio 3.1 - Tabuada com FOR === \n");
-Console.WriteLine(" Crie um programa que solicite ao usuário um número.  \n");
-Console.WriteLine(" Em seguida será impresso uma tabuada \n");
+Console.WriteLine(" DADO QUE o usuário esteja no sistema para gerar a tabuada.  \n");
+Console.WriteLine(" QUANDO usuário digita algum valor número \n");
+Console.WriteLine(" ENTÃO será impresso no terminal a tabuada.\n");
 Console.WriteLine(" Mamão?! Bora lá! \n\n\n");
 
 Console.Write(" Digite um número: ");
