@@ -1,8 +1,9 @@
 ﻿Console.Clear();
 
 Console.WriteLine(" === Desafio 3.2 - Acúmulo de Notas com WHILE === \n");
-Console.WriteLine(" Crie um programa em que o usuário deverá digital várias notas.  \n");
-Console.WriteLine(" O loop termina quando ele digitar -1. Ao final, exiba a média. \n");
+Console.WriteLine(" DADO QUE o usuário digita várias notas.  \n");
+Console.WriteLine(" QUANDO usuário digita o valor '-1' \n");
+Console.WriteLine(" ENTÃO será impresso no terminal a o cálculo das médias das notas.\n");
 Console.WriteLine(" Mamão?! Bora lá! \n\n\n");
 
 double nota;
@@ -14,7 +15,7 @@ while (true)
     Console.Write("Nota: ");
     string? entrada = Console.ReadLine();
 
-    // Esse ponto valido a entrada de dados para evitar que o usuário digita uma letra por exemplo
+    // Nesse ponto valido a entrada de dados para evitar que o usuário digita uma letra por exemplo
     if (!double.TryParse(entrada, out nota))
     {
         Console.WriteLine("❌ Entrada inválida. Digite um número válido.");
