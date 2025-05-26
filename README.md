@@ -4,8 +4,8 @@
 - [⏳] Revisar C# básico
   - [x]  1. **Variáveis, Tipos e Operadores**
   - [x]  2. **Condicionais (if, else, switch)**
-  - [ ]  3. **Laços de Repetição (for, while, do while)**
-  - [ ]  4. **Arrays e Listas**
+  - [x]  3. **Laços de Repetição (for, while, do while)**
+  - [⏳]  4. **Arrays e Listas**
   - [ ]  5. **Funções e Métodos**
   - [ ]  6. **Programação Orientada a Objetos (POO)**
   - [ ]  7. **Enum, Struct e DateTime**
